@@ -1,3 +1,3 @@
-import new_Teacher from "./first";
-import { mySir,myMiss } from "./second";
+import new_Teacher from "./first.js";
+import { mySir,myMiss } from "./second.js";
 console.log(mySir,myMiss,new_Teacher)
