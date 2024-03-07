@@ -1,0 +1,20 @@
+{
+    "name": "class05",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.24"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.15"
+    }
+}
