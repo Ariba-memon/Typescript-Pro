@@ -1,5 +1,5 @@
 {
-  "name": "class-11",
+  "name": "class10",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.12.12"
+    "@types/node": "^20.12.10"
   }
 }
